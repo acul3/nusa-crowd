@@ -32,7 +32,7 @@ from nusantara.utils.constants import (DEFAULT_NUSANTARA_VIEW_NAME,
                                        DEFAULT_SOURCE_VIEW_NAME, Tasks)
 
 _DATASETNAME = "kopi_nllb"
-_LANGUAGES  = "id"
+_LANGUAGES  = "ace,ban,bjn,ind,jav,min,sun"
 _SOURCE_VIEW_NAME = DEFAULT_SOURCE_VIEW_NAME
 _UNIFIED_VIEW_NAME = DEFAULT_NUSANTARA_VIEW_NAME
 
